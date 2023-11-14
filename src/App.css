@@ -26,3 +26,9 @@ body {
   color: #fff !important;
   font-family: "Centra", sans-serif !important;
 }
+/******************navbar***********************/
+.navlink{
+  display: flex;
+  justify-content: center;
+}
+
